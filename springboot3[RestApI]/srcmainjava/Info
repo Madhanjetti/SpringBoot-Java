@@ -1,0 +1,17 @@
+REST API, Postman, and HTTP Methods (GET, PUT, POST, DELETE):
+
+REST API (Representational State Transfer API):
+
+A REST API is a type of web service that allows communication between a client and a server over HTTP.
+It is based on the principles of REST, which emphasize a stateless client-server architecture and the use of standard HTTP methods.
+Postman:
+
+Postman is a popular tool used for testing APIs, including REST APIs.
+It provides a user-friendly interface for sending HTTP requests to a server and viewing the responses.
+Postman supports various HTTP methods, such as GET, PUT, POST, and DELETE, making it a versatile tool for interacting with APIs.
+HTTP Methods (GET, PUT, POST, DELETE):
+
+GET: Used to retrieve data from a server. It should only retrieve data and should not have any other effect on the server.
+PUT: Used to update or replace existing resources on the server. It requires the client to send the entire updated resource to the server.
+POST: Used to create new resources on the server. It is often used for submitting form data or uploading files.
+DELETE: Used to delete resources from the server.
