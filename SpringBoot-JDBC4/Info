@@ -1,1 +1,6 @@
 SpringBoot-JDBC4 ---------- JDBC Coonection using springboot and perform crud operation using postman Api
+
+
+Dependencies while install spring Initializer
+
+Spring web,Spring Data JPS,Mysql Driver, Spring Dev Tools
