@@ -5,3 +5,7 @@ Using temporary database JPA and H2 Mysql Prgrom is performed.
 And database can be executed in browser using locolhost:port_no/h2-console
 
 Eg: locolhost:6800/h2-console
+
+Dependencies while install spring Initializer
+
+Spring web,Spring JPA,H2 Database
