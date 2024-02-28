@@ -25,3 +25,5 @@ springboot3[RestApI] ------ RestAPI and Methods Using PostMan
 SpringBoot-JDBC4 ---------- JDBC Connection using springboot and perform crud operation using postman Api
 
 SpringBoot-JPA5  ---------- SpringBoot Application + Temporary Database[JPA+H2]
+
+springBoot5-RestApi2 ---------- Simple Operations using RestAPI concept and postman is used.
